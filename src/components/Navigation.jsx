@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 
-import Logo from '../static/img/logo-text-white.png';
+import Logo from '../static/img/logo-text--white.png';
 import Icon from '../static/img/logo-white.png';
 
 export default class Navigation extends React.Component {
